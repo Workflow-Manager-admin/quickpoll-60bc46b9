@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">android_frontend</string>
+    <string name="app_name">QuickPoll</string>
+    <string name="polls">Polls</string>
+    <string name="create">Create</string>
+    <string name="vote">Vote</string>
+    <string name="share">Share</string>
+    <string name="add_option">Add Option</string>
+    <string name="create_poll">Create Poll</string>
 </resources>

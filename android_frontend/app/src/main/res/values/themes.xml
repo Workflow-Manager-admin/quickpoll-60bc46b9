@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.QuickPoll" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorAccent">@color/accentColor</item>
+        <item name="android:background">@android:color/white</item>
+    </style>
+</resources>

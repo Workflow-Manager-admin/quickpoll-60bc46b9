@@ -1,0 +1,7 @@
+<resources>
+    <color name="primaryColor">#1E88E5</color>
+    <color name="primaryDarkColor">#1976D2</color>
+    <color name="accentColor">#FFC107</color>
+    <color name="bottom_nav_unselected">#888888</color>
+    <color name="bottom_nav_selected">#1E88E5</color>
+</resources>

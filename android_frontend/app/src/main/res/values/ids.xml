@@ -1,0 +1,4 @@
+<resources>
+    <item name="nav_polls" type="id"/>
+    <item name="nav_create" type="id"/>
+</resources>
